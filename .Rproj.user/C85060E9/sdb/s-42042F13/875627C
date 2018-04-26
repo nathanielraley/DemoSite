@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n# About/Biography widget.\nwidget = \"about\"\nactive = true\ndate = 2016-04-20T00:00:00\n\n# Order that this section will appear in.\nweight = 5\n\n# List your academic interests.\n[interests]\n  interests = [\n    \"Artificial Intelligence\",\n    \"Computational Linguistics\",\n    \"Information Retrieval\"\n  ]\n\n# List your qualifications (such as academic degrees).\n[[education.courses]]\n  course = \"PhD in Artificial Intelligence\"\n  institution = \"Stanford University\"\n  year = 2012\n\n[[education.courses]]\n  course = \"MEng in Artificial Intelligence\"\n  institution = \"Massachusetts Institute of Technology\"\n  year = 2009\n\n[[education.courses]]\n  course = \"BSc in Artificial Intelligence\"\n  institution = \"Massachusetts Institute of Technology\"\n  year = 2008\n \n+++\n\n# Biography\n\nLena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. \n",
+    "created" : 1524705381198.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3267163282",
+    "id" : "875627C",
+    "lastKnownWriteTime" : 1524705262,
+    "last_content_update" : 1524705262,
+    "path" : "~/Desktop/BlogdownDemo/NewSite/content/home/about.md",
+    "project_path" : "content/home/about.md",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

@@ -1,0 +1,28 @@
+---
+title: Our fun new post!!
+author: Nathaniel
+date: '2018-04-25'
+slug: our-fun-new-post
+categories: []
+tags: []
+header:
+  caption: ''
+  image: ''
+---
+
+Hello word! This is my first post!
+
+This is a picture of my good friend:
+
+![](/post/2018-04-25-our-fun-new-post_files/upsidedinge.png)
+
+
+```{R cars}
+
+2+2
+
+## here's a plot
+
+plot(density(cars$speed))
+
+```

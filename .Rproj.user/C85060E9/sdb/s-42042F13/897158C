@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: Our fun new post!!\nauthor: Nathaniel\ndate: '2018-04-25'\nslug: our-fun-new-post\ncategories: []\ntags: []\nheader:\n  caption: ''\n  image: ''\n---\n\nHello word! This is my first post!\n\nThis is a picture of my good friend:\n\n![](/post/2018-04-25-our-fun-new-post_files/upsidedinge.png)\n\n\n```{R cars}\n\n2+2\n\n## here's a plot\n\nplot(density(cars$speed))\n\n```",
+    "created" : 1524705539433.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1417454384",
+    "id" : "897158C",
+    "lastKnownWriteTime" : 1524705601,
+    "last_content_update" : 1524705601224,
+    "path" : "~/Desktop/BlogdownDemo/NewSite/content/post/2018-04-25-our-fun-new-post.Rmarkdown",
+    "project_path" : "content/post/2018-04-25-our-fun-new-post.Rmarkdown",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

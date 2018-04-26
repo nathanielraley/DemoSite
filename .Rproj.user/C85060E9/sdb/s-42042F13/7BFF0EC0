@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "#install.packages(\"blogdown\")\n\nblogdown::new_site(theme=\"gcushen/hugo-academic\")\n\nblogdown::serve_site() ### or use Addins\n\n#blogdown::new_post() \n### using Addins recommended",
+    "created" : 1524694004416.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "53619927",
+    "id" : "7BFF0EC0",
+    "lastKnownWriteTime" : 140587958897040,
+    "last_content_update" : 1524694241357,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
